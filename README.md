@@ -14,5 +14,5 @@ anime by VibeCoding.
 
    > サクッと作ってくれたのがこのファイル
 
-![歩くとら](./vibe_tiger.png)
+![歩くとら]()
 
